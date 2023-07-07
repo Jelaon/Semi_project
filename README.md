@@ -7,7 +7,7 @@
 <b> 학원사람이 소통을 할수 있도록하는 커뮤니티 사이트 </b>
 
 <i>조원 : 김홍석(조장), 장서영, 엄태환, 홍성빈, 이준석, 손석범</i><br>
-<span style='background-color: #fff5b1'>노란형광펜</span>
+<span style='background-color: #fff5b1'>노란형광펜</span><br>
 <span style="color:#f00">맡은 파트 : <b style="color:blue">로그인</b> / <b>게시판CRUD</b> </span>
 <br><br>
 <h2>목차</h2>
